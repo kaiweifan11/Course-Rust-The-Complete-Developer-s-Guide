@@ -1,0 +1,5 @@
+Guidelines for function args
+
+Need to store argument somewhere? -> String (Ownership)
+Need to do calculation with the value? -> &str (readonly ref)
+Need to change the value in some way -> &mut String (mutable ref)

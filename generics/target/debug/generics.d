@@ -1,0 +1,1 @@
+/Users/kai/Desktop/Personal\ and\ Admin/Courses/Course-Rust-The-Complete-Developer-s-Guide/generics/target/debug/generics: /Users/kai/Desktop/Personal\ and\ Admin/Courses/Course-Rust-The-Complete-Developer-s-Guide/generics/src/main.rs

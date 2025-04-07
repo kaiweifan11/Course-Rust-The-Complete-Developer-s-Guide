@@ -1,0 +1,1 @@
+/Users/kai/Desktop/Personal\ and\ Admin/Courses/Course-Rust-The-Complete-Developer-s-Guide/lifetimes/target/debug/lifetimes: /Users/kai/Desktop/Personal\ and\ Admin/Courses/Course-Rust-The-Complete-Developer-s-Guide/lifetimes/src/main.rs

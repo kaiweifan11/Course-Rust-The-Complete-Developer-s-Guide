@@ -1,0 +1,1 @@
+/Users/kai/Desktop/Personal\ and\ Admin/Courses/Course-Rust-The-Complete-Developer-s-Guide/logs/target/debug/logs: /Users/kai/Desktop/Personal\ and\ Admin/Courses/Course-Rust-The-Complete-Developer-s-Guide/logs/src/main.rs
